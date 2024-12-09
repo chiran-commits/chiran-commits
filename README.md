@@ -1,34 +1,24 @@
-
-
-
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ## I'm Chiran👋
-3rd-year undergraduate in Informatics Institute of Technology, Sri Lanka, Full Stack Developer 👨‍💻   
-  
 
-- 🌱 I’m currently learning NextJS to create Full Stack Applications using Express  
-  
+3rd-year undergraduate in Informatics Institute of Technology, Sri Lanka, Full Stack Developer 👨‍💻
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🌱 I’m currently learning NextJS to create Full Stack Applications using Express
 
-  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -41,9 +31,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -56,10 +45,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Others
-  
+
 <div align="center">  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -67,12 +54,12 @@
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -90,26 +77,25 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiran-commits&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
 
-<br/>    
+## Github Stats
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiran-commits&hide_border=true&layout=compact" align="center" /></div>
+
+<br/>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chiran-commits&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
 
+<br/>
 
 <br />
 
-----
+---
