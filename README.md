@@ -7,6 +7,7 @@
   <strong><h3>3rd-year undergraduate in Informatics Institute of Technology, Sri Lanka, Full Stack Developer 👨‍💻</h3></strong>
 
 - 🌱 I’m currently learning NextJS to create Full Stack Applications using Express
+- 🌱 Also Learning about JEST with React Testing Liberties
 
 - ⚡ Fun fact: I use tabs over spaces
 
