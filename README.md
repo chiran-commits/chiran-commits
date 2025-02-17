@@ -15,7 +15,7 @@
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/chiran-commits/chiran-commits/output/dist/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/chiran-commits/chiran-commits/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
