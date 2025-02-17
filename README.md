@@ -15,8 +15,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-![GitHub Contribution Snake](https://github.com/chiran-commits/chiran-commits/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake](https://github.com/chiran-commits/chiran-commits/dist/github-contribution-grid-snake.svg)
 
 ---
 
