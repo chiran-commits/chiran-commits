@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiran-commits" alt="chiran-commits" /></a> </p>
 
-- 🔭 I’m currently working on [Foliogrow](https://foliogrow.com/)
+- 🔭 I’m currently working on my Final Year doing a Software Engineering Degree
 
 - 🌱 I’m currently learning **NextJS, Angular, C# and more**
 
