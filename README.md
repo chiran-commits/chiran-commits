@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on my Final Year doing a Software Engineering Degree
 
-- 🌱 I’m currently learning **NextJS, Angular, C# and more**
+- 🌱 I’m currently researching for my **Final Year Project**
 
-- 🤝 I’m looking for help with **Angular**
+- 🤝 I’m looking for help with **AI / ML ~ XAI integration**
 
 - 👨‍💻 All of my projects are available at [https://chirangamage-blue.vercel.app/](https://chirangamage-blue.vercel.app/)
 
