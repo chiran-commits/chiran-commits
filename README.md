@@ -1,6 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SCJ — CHIRAN GAMAGE README                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -14,7 +11,7 @@
 <!-- ANIMATED TYPING INTRO -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Chiran+%F0%9F%91%8B;Final+Year+SE+Student+%40+IIT+%C3%97+Westminster;Building+AI+that+actually+thinks+%F0%9F%A7%A0;Tabs+enjoyer.+Forever.+%E2%9C%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Chiran+%F0%9F%91%8B;Final+Year+SE+Student+%40+IIT+%C3%97+Westminster;Building+AI+that+actually+thinks+%F0%9F%A7%A0;Tabs+enjoyer.+Forever.+%E2%9C%8A)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,10 +39,6 @@
   </picture>
 </div>
 
-> **Note:** To activate the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → uses `Platane/snk` action with `GITHUB_TOKEN`
-
----
 
 <!-- ABOUT ME — ANIMATED PANELS -->
 <table>
