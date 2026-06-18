@@ -100,7 +100,7 @@ me = Chiran()
 ![Macro-F1](https://img.shields.io/badge/Hybrid%20Macro--F1-0.9446-success?style=flat-square&logo=tensorflow)
 ![Throughput](https://img.shields.io/badge/Throughput-14%2C341%20flows%2Fmin-blue?style=flat-square&logo=speedtest)
 ![Dataset](https://img.shields.io/badge/Dataset-CSE--CIC--IDS2018-orange?style=flat-square&logo=databricks)
-![Status](https://img.shields.io/badge/Status-Submitting%20Paper%20%F0%9F%93%84-purple?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Accepted%20Paper%20%F0%9F%93%84-purple?style=flat-square)
 
 <br/>
 
