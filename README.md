@@ -116,7 +116,7 @@ me = Chiran()
 
 ## 🏆 Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=chiran-commits&column=-1" alt="trophies" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=chiran-commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
